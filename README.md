@@ -1,7 +1,6 @@
 # Smart AI Task Organizer
 
 Full-stack task management platform that combines a React dashboard with a Node.js/Express API, SQLite persistence, background reminder scheduling, and lightweight AI-powered task suggestions.
-![Uploading image.png…]()
 
 
 ## Features
